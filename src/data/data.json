@@ -1,0 +1,1926 @@
+{
+  "kind": "books#volumes",
+  "totalItems": 1347,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "7SFkDwAAQBAJ",
+      "etag": "lqDSstsiWpw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/7SFkDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Crypto Book",
+        "subtitle": "How to Invest Safely in Bitcoin and Other Cryptocurrencies",
+        "authors": ["Siam Kidd"],
+        "publisher": "Hachette UK",
+        "publishedDate": "2018-10-04",
+        "description": "THE CRYPTO GOLD RUSH IS ONLY JUST BEGINNING... Blockchain technology and the cryptocurrencies it enables are being described by some people as the biggest thing since the internet, but very few people understand it, or the opportunities it brings. Enter this down-to-earth guide to understanding what cryptocurrencies are, why it matters, and how to make money from them. This book is for everyone who has heard of bitcoin and cryptocurrencies, wants to learn more - and make money on the back of it. Believe it or not, if you bought $1,000 of Bitcoin in 2010, you would now be worth over $220m! This has left the public stunned. People around the world are asking \"What on earth is a crypto?\", \"Should I buy some Bitcoin?\", \"How do I even buy some cryptocurrencies?\", \"Isn't this just one big bubble?\" and more. Siam Kidd is one of the world's leading authorities on how to safely invest in cryptocurrencies. He runs The Realistic Trader, home to the world's best crypto investing course for beginners with a community of followers from around the globe. He created this book to lift up the crypto bonnet in order to reveal, explain and illustrate everything you really need to know about this fascinating market. You'll learn: · What all this Crypto stuff is · Why it exists · Where this industry is going in the future · How it will positively change your life · The pitfalls and errors every newbie makes · And importantly, how to safely play in this market if you so wish to have a dabble with some risk capital! This book does all that without boring you with mathematics and 'Geek Speak'. CRYPTOCURRENCIES ARE THE BIGGEST OPPORTUNITY OF YOUR LIFETIME \"The future of money is digital currency.\" \"Bitcoin is a technological tour de force.\" Bill Gates, Founder of Microsoft",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781473693333"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1473693330"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 224,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.4.3.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=7SFkDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=7SFkDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=7SFkDwAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=1&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=7SFkDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=7SFkDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 566.4,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 504,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=7SFkDwAAQBAJ&rdid=book-7SFkDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 566400000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 504000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/The_Crypto_Book-sample-epub.acsm?id=7SFkDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=7SFkDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "He created this book to lift up the crypto bonnet in order to reveal, explain and illustrate everything you really need to know about this fascinating market."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "0vDcDwAAQBAJ",
+      "etag": "FFEAw+aA9QQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/0vDcDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Kings of Crypto",
+        "subtitle": "One Startup's Quest to Take Cryptocurrency Out of Silicon Valley and Onto Wall Street",
+        "authors": ["Jeff John Roberts"],
+        "publisher": "Harvard Business Press",
+        "publishedDate": "2020-12-15",
+        "description": "\"Tech writer Roberts debuts with a page-turning account of the rise of cryptocurrency exchange Coinbase from the Y Combinator startup incubator to becoming a 'pillar of the larger crypto economy.'\" — Publisher's Weekly For a moment late in 2018, one bitcoin, which physically amounts to a few electrons blipping on a tiny bit of silicon, was worth $20,000—the same as a pound of gold. Libertarian technologists who believed bitcoin would be the foundation of a new world order saw the moment as an apotheosis. Everyone else saw a bubble. Everyone else was right, and the bubble burst. But bitcoin survived, and the battle for its soul rages on. Kings of Crypto drops us into the unfolding drama, tracing the rise, fall, and rebirth of cryptocurrency through the experiences of major players across the globe. We follow Silicon Valley entrepreneur Brian Armstrong and the turbulent rocket ride of his startup, Coinbase, as he tries to take bitcoin mainstream while fighting off hackers, thieves, and zealots. Author Jeff John Roberts keenly observes the world of virtual currencies and what happens when startups try to disrupt the world of high finance. Clear explanations of crypto technology are woven into an amazing landscape full of meme-fueled startup hijinks, hacking (so much hacking!), shady investors, government investigations, billionaire bros and their Lambos, and closed-door meetings with Jamie Dimon. This is the surprising story of the origins of cryptocurrency and how it is changing money forever.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781647820190"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1647820197"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.2.2.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=0vDcDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=0vDcDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=0vDcDwAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=2&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=0vDcDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=0vDcDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2195,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 2195,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=0vDcDwAAQBAJ&rdid=book-0vDcDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2195000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2195000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Kings_of_Crypto-sample-epub.acsm?id=0vDcDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Kings_of_Crypto-sample-pdf.acsm?id=0vDcDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=0vDcDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is the surprising story of the origins of cryptocurrency and how it is changing money forever."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "owd76BElvosC",
+      "etag": "77QfahRJL8k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/owd76BElvosC",
+      "volumeInfo": {
+        "title": "Mathematics of Public Key Cryptography",
+        "authors": ["Steven D. Galbraith"],
+        "publisher": "Cambridge University Press",
+        "publishedDate": "2012-03-15",
+        "description": "This advanced graduate textbook gives an authoritative and insightful description of the major ideas and techniques of public key cryptography.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781107013926"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1107013925"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 615,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=owd76BElvosC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=owd76BElvosC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=owd76BElvosC&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=owd76BElvosC&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Mathematics_of_Public_Key_Cryptography.html?hl=&id=owd76BElvosC"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=owd76BElvosC&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This advanced graduate textbook gives an authoritative and insightful description of the major ideas and techniques of public key cryptography."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "XmIPEAAAQBAJ",
+      "etag": "4+n+tpIHB20",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/XmIPEAAAQBAJ",
+      "volumeInfo": {
+        "title": "An Introduction to Cryptocurrencies",
+        "subtitle": "The Crypto Market Ecosystem",
+        "authors": ["Nikos Daskalakis", "Panagiotis Georgitseas"],
+        "publisher": "Routledge",
+        "publishedDate": "2020-05-28",
+        "description": "The Crypto Market Ecosystem has emerged as the most profound application of blockchain technology in finance. This textbook adopts an integrated approach, linking traditional functions of the current financial system (payments, traded assets, fundraising, regulation) with the respective functions in the crypto market, in order to facilitate the reader in their understanding of how this new ecosystem works. The book walks the reader through the main features of the blockchain technology, the definitions, classifications, and distinct characteristics of cryptocurrencies and tokens, how these are evaluated, how funds are raised in the cryptocurrency ecosystem (ICOs), and what the main regulatory approaches are. The authors have compiled more than 100 sources from different sub-fields of economics, finance, and regulation to create a coherent textbook that provides the reader with a clear and easily understandable picture of the new world of encrypted finance and its applications. The book is primarily aimed at business and finance students, who already have an understanding of the basic principles of how the financial system works, but also targets a more general readership, by virtue of its broader scope and engaging and accessible tone.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781000077704"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1000077705"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 88,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.1",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=XmIPEAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=XmIPEAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=XmIPEAAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=4&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=XmIPEAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=XmIPEAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 4482.82,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 4482.82,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=XmIPEAAAQBAJ&rdid=book-XmIPEAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 4482820000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 4482820000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/An_Introduction_to_Cryptocurrencies-sample-pdf.acsm?id=XmIPEAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=XmIPEAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book walks the reader through the main features of the blockchain technology, the definitions, classifications, and distinct characteristics of cryptocurrencies and tokens, how these are evaluated, how funds are raised in the ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LiWFDwAAQBAJ",
+      "etag": "54a00h+laCg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LiWFDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Crypto Uncovered",
+        "subtitle": "The Evolution of Bitcoin and the Crypto Currency Marketplace",
+        "authors": ["Sarah Swammy", "Richard Thompson", "Marvin Loh"],
+        "publisher": "Springer",
+        "publishedDate": "2019-01-24",
+        "description": "Crypto currency integrated BlockChain under Virtual Scalable Enterprises is a widely debated and earnestly discussed topic in the technology arena. Executives at the largest institutions are calling crypto currency fraudulent while high-level institutional banking professionals are leaving their positions to jump into crypto technology, regulation and investment opportunities as industries advance towards adoption. The narratives on these topics are diametrically opposite and polarizing on both side of the debate. While this debate has many layers from a government regulatory side to social impact to the practicality of everyday use of crypto currencies in developing markets, it is safe to assume that crypto currencies or utility tokens are more than a global phenomenon and are now becoming a working framework for optional modes of business. This book demystifies what crypto currency is, how it is used, and what it means to the consumer, investor, and the future of our global currency marketplace. By providing the historical backdrop to the market, authors Sarah Swammy, Richard Thompson, and Marvin Loh provide a clear definition of what crypto-currencies actually are, how they are being used and by whom, and the unique reasons why they have gone from back street to Main Street almost overnight. The book will also delve into the government’s role in regulating this commerce medium. Lastly, the authors will look at the current global monetary policy and discuss if this type of currency phenomena was a direct result while also examining the potential risk and rewards for investors and the economy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9783030001353"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "3030001350"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 181,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LiWFDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LiWFDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=LiWFDwAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LiWFDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LiWFDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2950,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 2950,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LiWFDwAAQBAJ&rdid=book-LiWFDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2950000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2950000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Crypto_Uncovered-sample-epub.acsm?id=LiWFDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Crypto_Uncovered-sample-pdf.acsm?id=LiWFDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LiWFDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This is important work that will help diverse communities such as HBCUs lead in the development of these technologies to build wealth.” —Chad Womack, Senior Director, STEM Initiatives and Special Projects, UNCF"
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9LACzgEACAAJ",
+      "etag": "mBcQpfPbQ+A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9LACzgEACAAJ",
+      "volumeInfo": {
+        "title": "Crypto",
+        "subtitle": "How the Code Rebels Beat the Government--Saving Privacy in the Digital Age",
+        "authors": ["Steven Levy"],
+        "publisher": "Penguin (Non-Classics)",
+        "publishedDate": "2002",
+        "description": "Tells the inside story of how a group of \"crypto rebels\" teamed up with corporate interests to beat Big Brother and ensure consumers' privacy on the Internet.. Reprint.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "0140244328"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9780140244328"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 356,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 4.5,
+        "ratingsCount": 6,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9LACzgEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9LACzgEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=9LACzgEACAAJ&dq=Crypto&hl=&as_pt=BOOKS&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=9LACzgEACAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crypto.html?hl=&id=9LACzgEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9LACzgEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Tells the inside story of how a group of &quot;crypto rebels&quot; teamed up with corporate interests to beat Big Brother and ensure consumers&#39; privacy on the Internet.. Reprint."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "uQekDwAAQBAJ",
+      "etag": "NOthxjyBQds",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/uQekDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Crypto-Politics",
+        "subtitle": "Encryption and Democratic Practices in the Digital Era",
+        "authors": ["Linda Monsees"],
+        "publisher": "Routledge",
+        "publishedDate": "2019-07-19",
+        "description": "This book examines current debates about the politics of technology and the future of democratic practices in the digital era. The volume centres on the debates on digital encryption in Germany and the USA, during the aftermath of Edward Snowden’s leaks, which revolved around the value of privacy and the legitimacy of surveillance practices. Using a discourse analysis of mass media and specialist debates, it shows how these are closely interlinked with technological controversies and how, as a result, contestation emerges not within one public sphere but within multiple expert circles. The book develops the notion of ‘publicness’ in order to grasp the political significance of these controversies, thereby making an innovative contribution to Critical Security Studies by introducing digital encryption as an important site for understanding the broader debates on cyber security and surveillance. This book will be of much interest to students of critical security studies, science and technology studies, and International Relations.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780429852671"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0429852673"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 154,
+        "printType": "BOOK",
+        "categories": ["Political Science"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=uQekDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=uQekDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=uQekDwAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=7&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=uQekDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=uQekDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3138.8,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 3138.8,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=uQekDwAAQBAJ&rdid=book-uQekDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3138800000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3138800000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Crypto_Politics-sample-epub.acsm?id=uQekDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Crypto_Politics-sample-pdf.acsm?id=uQekDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=uQekDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "This book examines current debates about the politics of technology and the future of democratic practices in the digital era."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "-5AtDwAAQBAJ",
+      "etag": "UZ7PFVS9B+4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/-5AtDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Cryptoassets: The Innovative Investor's Guide to Bitcoin and Beyond",
+        "authors": ["Chris Burniske", "Jack Tatar"],
+        "publisher": "McGraw Hill Professional",
+        "publishedDate": "2017-10-20",
+        "description": "The innovative investor’s guide to an entirely new asset class—from two experts on the cutting edge With the rise of bitcoin and blockchain technology, investors can capitalize on the greatest investment opportunity since the Internet. Bitcoin was the first cryptoasset, but today there are over 800 and counting, including ether, ripple, litecoin, monero, and more. This clear, concise, and accessible guide from two industry insiders shows you how to navigate this brave new blockchain world—and how to invest in these emerging assets to secure your financial future. Cryptoassets gives you all the tools you need: * An actionable framework for investigating and valuing cryptoassets * Portfolio management techniques to maximize returns while managing risk * Historical context and tips to navigate inevitable bubbles and manias * Practical guides to exchanges, wallets, capital market vehicles, and ICOs * Predictions on how blockchain technology may disrupt current portfolios In addition to offering smart investment strategies, this authoritative resource will help you understand how these assets were created, how they work, and how they are evolving amid the blockchain revolution. The authors define a clear and original cryptoasset taxonomy, composed of cryptocurrencies, cryptocommodities, and cryptotokens, with insights into how each subset is blending technology and markets. You’ll find a variety of methods to invest in these assets, whether through global exchanges trading 24/7 or initial cryptoasset offerings (ICOs). By sequentially building on the concepts of each prior chapter, the book will provide you with a full understanding of the cryptoasset economy and the opportunities that await the innovative investor. Cryptoassets represent the future of money and markets. This book is your guide to that future.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781260026689"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "126002668X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 256,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "averageRating": 5,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=-5AtDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=-5AtDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=-5AtDwAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=8&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=-5AtDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=-5AtDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 2639.29,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 2639.29,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=-5AtDwAAQBAJ&rdid=book--5AtDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 2639290000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 2639290000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Cryptoassets_The_Innovative_Investor_s_G-sample-epub.acsm?id=-5AtDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Cryptoassets_The_Innovative_Investor_s_G-sample-pdf.acsm?id=-5AtDwAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=-5AtDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Cryptoassets represent the future of money and markets. This book is your guide to that future."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "9DxqDwAAQBAJ",
+      "etag": "sO+C8Brywyw",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/9DxqDwAAQBAJ",
+      "volumeInfo": {
+        "title": "The Everything Guide to Investing in Cryptocurrency",
+        "subtitle": "From Bitcoin to Ripple, the Safe and Secure Way to Buy, Trade, and Mine Digital Currencies",
+        "authors": ["Ryan Derousseau"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2019-03-05",
+        "description": "Maximize your money while avoiding the potential pitfalls of investing in cryptocurrency—this handy guide shows you how to get in from the bottom up in this hot new market. Cryptocurrency—a digital asset that uses cryptography to secure all of its transactions, making it nearly impossible to counterfeit—is moving into the mainstream, receiving coverage from major financial websites such as Forbes and Bloomberg, as well as increased attention from serious financial institutions, and experiencing wider availability in trusted markets, such as the world’s largest futures exchange, Chicago Mercantile Exchange. As the price of Bitcoin and other cryptocurrencies continue to fluctuate and and news stories of cryptocurrency hackers increase, investors have to be more conscious of the huge opportunities and large risks in this market. Understanding these risks and rewards of cryptocurrency is vital for everyone wanting to make money on this exciting new form of investing. The Everything Guide to Investing in Cryptocurrency is an authoritative and comprehensive guide to help you safely jump into the lucrative world of e-commerce. You’ll learn: —The different major cryptocurrencies, including Bitcoin, litecoin, and ethereum —Where to buy and sell cryptocurrencies safely and securely —Setting up and managing your cryptocurrency wallet —Properly analyzing their investments Leap into cryptocurrencies with a full understanding of what you’re investing in. With the help of The Everything Guide to Investing in Cryptocurrencies, you’ll maximize your gains and minimize your risks in this radical new frontier.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781507209332"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1507209339"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 288,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.7.7.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=9DxqDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=9DxqDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=9DxqDwAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=9DxqDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9DxqDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 977.04,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 488.52,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=9DxqDwAAQBAJ&rdid=book-9DxqDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 977040000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 488520000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/The_Everything_Guide_to_Investing_in_Cry-sample-epub.acsm?id=9DxqDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=9DxqDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The Everything Guide to Investing in Cryptocurrency is an authoritative and comprehensive guide to help you safely jump into the lucrative world of e-commerce."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "dUAeAQAAMAAJ",
+      "etag": "Rwr3t9gTw64",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/dUAeAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Cannibals, Castes and Crypto-Jews",
+        "subtitle": "Premillennial Cosmology in Postcolonial New Mexico",
+        "authors": ["Judith S. Neulander"],
+        "publishedDate": "2001",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000078558552"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 690,
+        "printType": "BOOK",
+        "categories": ["Inquisition"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=dUAeAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=dUAeAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=dUAeAQAAMAAJ&q=Crypto&dq=Crypto&hl=&as_pt=BOOKS&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=dUAeAQAAMAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cannibals_Castes_and_Crypto_Jews.html?hl=&id=dUAeAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=dUAeAQAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To the extent that the &quot; plausible &quot; ethnic identity of the cultural items goes \u003cbr\u003e\nunchallenged ( which in the case of this researcher , is 100 percent ) , the \u003cbr\u003e\nhypothesis also goes unchallenged ( \u003cb\u003ecrypto\u003c/b\u003e - Nazis shaped Navaho culture / \u003cbr\u003e\n\u003cb\u003ecrypto\u003c/b\u003e - Jews&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "TYOgAAAAMAAJ",
+      "etag": "nEmY1JO7r2k",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/TYOgAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Last Crypto-Jews of Portugal",
+        "authors": ["David Augusto Canelo"],
+        "publisher": "Judaica Press",
+        "publishedDate": "1990",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000029489386"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 185,
+        "printType": "BOOK",
+        "categories": ["Belmonte (Portugal)"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=TYOgAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=TYOgAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=TYOgAAAAMAAJ&q=Crypto&dq=Crypto&hl=&as_pt=BOOKS&cd=11&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=TYOgAAAAMAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Last_Crypto_Jews_of_Portugal.html?hl=&id=TYOgAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=TYOgAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Despite the Jews now being allowed to live freely in the country , the \u003cbr\u003e\npersecutions against the apostates impeded the \u003cb\u003eCrypto\u003c/b\u003e - Jews , who outwardly \u003cbr\u003e\nhad professed Catholicism , from living publicly as Jews . The prejudices of the \u003cbr\u003e\npeople&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "hCdyDwAAQBAJ",
+      "etag": "T2gTQr2+YWk",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/hCdyDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Tokenomics",
+        "subtitle": "The Crypto Shift of Blockchains, ICOs, and Tokens",
+        "authors": ["Sean Au", "Thomas Power"],
+        "publisher": "Packt Publishing Ltd",
+        "publishedDate": "2018-10-08",
+        "description": "Explore the differences between ICOs, cryptocurrencies, and tokens (offerings), enabling the reader to understand the ICO landscape, how millions were raised in minutes, and where the future of the tokenized economy is heading. Take a real-time journey, cutting through the myths, understanding token choices available to everyone. Key Features Interviews with key figures in Tokenomics Unbiased evaluation and comparison of the different offerings Conceptual analysis of the market’s reaction League table showing current exposure An account of the theoretical and current legal foundations of alt coins and tokens A complete introduction to the phases of an initial coin offering Book Description Tokenomics is the economy of this new world. This is a no-holds-barred, in-depth exploration of the way in which we can participate in the blockchain economy. The reader will learn the basics of bitcoin, blockchains, and tokenomics; what the very first ICO was; and how over a period of 5 years, various projects managed to raise the enormous sums of money they did. The book then provides insights from ICO experts and looks at what the future holds. By comparing the past, current, and future of this technology, the book will inform anyone, whatever motivates their interest. The crypto shift of blockchains, ICOs, and tokens is much more than just buying bitcoins, creating tokens, or raising millions in a minute in an ICO. It is a new paradigm shift from centralized to decentralized, from closed to open, and from opaqueness to transparency. ICOs and the creation of tokens during the craze of 2017 needed a lot of preparation, an understanding of cryptocurrencies and of emerging legal frameworks, but this has spurred a new movement to tokenize the world. The author gives an unbiased, authoritative picture of the current playing field, exploring the token opportunities and provides a unique insight into the developing world of this tokenized economy. This book will nourish hungry minds wanting to grow their knowledge in this fascinating area. What you will learn The background of ICOs and how they came to be The difference between a coin and a token, a utility and a security, and all the other acronyms you’re likely to ever encounter How these ICOs raised enormous sums of money Tokenomics: structuring the token with creativity Why it’s important to play nicely with the regulators A sneak peak into the future of ICOs from leaders in the industry Who this book is for With the media hype about bitcoin, this book appeals to anyone, from those with a general interest in anything crypto, or those with some knowledge of the nuances between cryptocurrency, ICOs, IPOs and the Token economy.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781789132601"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1789132606"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 486,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=hCdyDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=hCdyDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=hCdyDwAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=12&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=hCdyDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=hCdyDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 775.25,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 387.62,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=hCdyDwAAQBAJ&rdid=book-hCdyDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 775250000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 387620000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=hCdyDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The book then provides insights from ICO experts and looks at what the future holds. By comparing the past, current, and future of this technology, the book will inform anyone, whatever motivates their interest."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "p9dQAAAAMAAJ",
+      "etag": "SijARxDD1oQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/p9dQAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Advances in Cryptology — CRYPTO ’91",
+        "subtitle": "Proceedings",
+        "authors": ["Joan Feigenbaum"],
+        "publisher": "Springer",
+        "publishedDate": "1992",
+        "description": "Crypto '91 was the eleventh in a series of workshops on cryptology sponsoredby the International Association for Cryptologic Research and was held in Santa Barbara, California, in August 1991. This volume contains a full paper or an extended abstract for each of the 39 talks presented at the workshop. All theoretical and practical aspects of cryptology are represented, including: protocol design and analysis, combinatorics and authentication, secret sharing and information theory, cryptanalysis, complexity theory, cryptographic schemas based on number theory, pseudorandomness, applications and implementations, viruses, public-key cryptosystems, and digital signatures.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "3540551883"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9783540551881"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 484,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=p9dQAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=p9dQAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=p9dQAAAAMAAJ&q=Crypto&dq=Crypto&hl=&as_pt=BOOKS&cd=13&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=p9dQAAAAMAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Advances_in_Cryptology_CRYPTO_91.html?hl=&id=p9dQAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=p9dQAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Deriving the Complete Knowledge of Participants in \u003cb\u003eCryptographic\u003c/b\u003e Protocols ( \u003cbr\u003e\nExtended Abstract ) Marie - Jeanne Toussaint Université de Liège Institut \u003cbr\u003e\nMontefiore , B28 , Sart Tilman B 4000 Liège ( Belgium ) toussainQuontofiore . ulg.\u003cbr\u003e\nac.be&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "L7hoAAAAMAAJ",
+      "etag": "ISVgocIrD+E",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/L7hoAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Conquistadores and Crypto-Jews of Monterrey",
+        "authors": ["David T. Raphael"],
+        "publishedDate": "2001",
+        "description": "Among the cities in Mexico, Monterrey has a mystique all its own marked by the enduring \"Jewish question\" regarding its founding in 1596. The historian, Vito Alessio Robles, made the statement that \"all the citizens of Monterrey are descended from Jews.\" Includes chapters on early prominent founders and families, Alberto del Canto, Luis de Carvajal, Gaspar Castaño de Sosa, Diego de Montemayor, Founder of Monterrey, The Garzas of Lepe and Monterrey, Francisco Báez de Benavides and the Martínez of Marin. This book reviews the evidence.--From distributor information.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UTEXAS:059173010299289"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 296,
+        "printType": "BOOK",
+        "categories": ["Jews"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.3.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=L7hoAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=L7hoAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=L7hoAAAAMAAJ&q=Crypto&dq=Crypto&hl=&as_pt=BOOKS&cd=14&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=L7hoAAAAMAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Conquistadores_and_Crypto_Jews_of_Mo.html?hl=&id=L7hoAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=L7hoAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "To be Portuguese in New Spain meant to be immediately suspected of Jewish \u003cbr\u003e\nlineage and possible \u003cb\u003ecrypto\u003c/b\u003e - Jewish activities . The distrust was not unfounded . \u003cbr\u003e\nA review of the Inquisition records in New Spain during the years 1620 - 1650&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "YcNjAAAAMAAJ",
+      "etag": "arxcJdYqERg",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/YcNjAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Crypto-topographia",
+        "subtitle": "Stories of Secret Places",
+        "authors": ["Christopher Middleton"],
+        "publishedDate": "2002",
+        "description": "Christopher Middleton's writing in Crypto-Topographia falls within the genre of 'short prose', which Middleton defines as 'liminal, ludic and disruptive'. Many of the texts concern places, singly or clustered, which offer their own secret store of time: lived time, signs of presence, whispers or howls. Time is stretched back, folded or pretended, and can transform a group of trees into 'the locus of a drama' ('A Close Shave With Sacrilege'). Sometimes place is supplanted by object: sliding carpets and material colour... Dispersed among variously 'situated' texts, history scintillates, not as a plan, but as an ensemble of glimpses. The epilogue records a strange episode of travel, 'The Gaze of the Turkish Mona Lisa', a masterly description of a Turkish lady, whom Middleton manages to depict, while refraining from looking at her.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015056165775"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 94,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=YcNjAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=YcNjAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=YcNjAAAAMAAJ&q=Crypto&dq=Crypto&hl=&as_pt=BOOKS&cd=15&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=YcNjAAAAMAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crypto_topographia.html?hl=&id=YcNjAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=YcNjAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "... but the sun was blazing down, how can a train of thought evaporate as \u003cbr\u003e\narbitrarily as the flashes had melted into the air? Merindol-les- Oliviers Two \u003cbr\u003e\ncypress trees on the slope down from 34 \u003cb\u003eCrypto\u003c/b\u003e-Topographia: Stories of Secret \u003cbr\u003e\nPlaces."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "w20hAAAAMAAJ",
+      "etag": "TcoaNiImy3I",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/w20hAAAAMAAJ",
+      "volumeInfo": {
+        "title": "The Crypto-Amnesia Club",
+        "authors": ["Michael Bracewell"],
+        "publisher": "Serpents Tail",
+        "publishedDate": "1988",
+        "description": "At the heart of fashionable London is The Crypto-Amnesia Club epic theatre of the style wars, where life brushes against the contours of a haircut and labels vie for seasonal supremacy. This mausoleum of self-consciousness is reluctantly managed by Merril, a lost soul who loathes the guests it is his job to please. Terrorized by manners, mannequins, and mange-touts, Merril searches through the emotional debris of designer London for a reason why he ever bothered to fall in love. A richly comic urban novel, The Crypto-Amnesia Club does for London what Bright Lights, Big City did for New York.",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015051353905"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 110,
+        "printType": "BOOK",
+        "categories": ["Fiction"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=w20hAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=w20hAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=w20hAAAAMAAJ&q=Crypto&dq=Crypto&hl=&as_pt=BOOKS&cd=16&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=w20hAAAAMAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/The_Crypto_Amnesia_Club.html?hl=&id=w20hAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=w20hAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "I was only just beginning to discover how secure I had made my retreat at The \u003cbr\u003e\n\u003cb\u003eCrypto\u003c/b\u003e- Amnesia Club, and I began to look at it with new eyes, trying to assess \u003cbr\u003e\nwhat exactly — if anything — it stood for. It stood for failure, obviously, and for a&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_YLyAAAAMAAJ",
+      "etag": "Ix/PBmy7/K8",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_YLyAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Crypto-judaism, Madness, and the Female Quixote",
+        "subtitle": "Charlotte Lennox as Marrana in Mid-eighteenth Century England",
+        "authors": ["Norman Toby Simms"],
+        "publishedDate": "2004",
+        "description": "Psychohistorian Simms, an American and Israeli citizen who lives in New Zealand, looks closely at Female Quixote, the 1752 the English narrative by Lennox, bypassing rather than challenging the current feminist, post-colonialist, and post-modernist perspectives. It deals with a humane and sympathet",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000095160887"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "categories": ["Literary Criticism"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_YLyAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_YLyAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=_YLyAAAAMAAJ&q=Crypto&dq=Crypto&hl=&as_pt=BOOKS&cd=17&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=_YLyAAAAMAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Crypto_judaism_Madness_and_the_Female_Qu.html?hl=&id=_YLyAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_YLyAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Living under a perpetual regime of what David M . Gitlitz calls &quot; secrecy and \u003cbr\u003e\ndeceit , ” the \u003cb\u003eCrypto\u003c/b\u003e - Jew in one sense created a new religion . In this new faith , \u003cbr\u003e\npartly shaped by rage against the religion that forced the conversion and partly \u003cbr\u003e\nby&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Z7gqAAAAMAAJ",
+      "etag": "LOP42VQCdGU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Z7gqAAAAMAAJ",
+      "volumeInfo": {
+        "title": "Dr. Naumann's Conspiracy, Pattern of the World-wide Crypto-Nazi Plot",
+        "authors": ["Joachim Joesten"],
+        "publishedDate": "1953",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "UOM:39015038768381"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 36,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.2.2.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Z7gqAAAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Z7gqAAAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Z7gqAAAAMAAJ&q=Crypto&dq=Crypto&hl=&as_pt=BOOKS&cd=18&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Z7gqAAAAMAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Dr_Naumann_s_Conspiracy_Pattern_of_the_W.html?hl=&id=Z7gqAAAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Z7gqAAAAMAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "The present volume is concerned with &quot; \u003cb\u003ecrypto\u003c/b\u003e &quot; rather than &quot; neo &quot; Nazism . \u003cbr\u003e\nThere is a difference . The neo - Nazis are largely cranks and malcontents \u003cbr\u003e\nwithout real influence or importance . The \u003cb\u003ecrypto\u003c/b\u003e , or hidden , Nazis are men of \u003cbr\u003e\nvast&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "KlxPAQAAIAAJ",
+      "etag": "77JaufG+dSs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/KlxPAQAAIAAJ",
+      "volumeInfo": {
+        "title": "Lake St. Martin Crypto-explosion Crater and Geology of the Surrounding Area",
+        "authors": ["H. R. McCabe", "B. B. Bannatyne"],
+        "publishedDate": "1970",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "STANFORD:36105016264603"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 79,
+        "printType": "BOOK",
+        "categories": ["Cryptoexplosion structures"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.0.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=KlxPAQAAIAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=KlxPAQAAIAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=KlxPAQAAIAAJ&q=Crypto&dq=Crypto&hl=&as_pt=BOOKS&cd=19&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=KlxPAQAAIAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Lake_St_Martin_Crypto_explosion_Crater_a.html?hl=&id=KlxPAQAAIAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=KlxPAQAAIAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "MARTIN \u003cb\u003eCRYPTO\u003c/b\u003e - EXPLOSION CRATER AND GEOLOGY OF THE \u003cbr\u003e\nSURROUNDING AREA INTRODUCTION This report presents a preliminary \u003cbr\u003e\ndiscussion of data obtained in a core hole drilling programme in the Lake St. \u003cbr\u003e\nMartin area ."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "W_aBDwAAQBAJ",
+      "etag": "pOylLn9fmZQ",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/W_aBDwAAQBAJ",
+      "volumeInfo": {
+        "title": "Crypto Economy",
+        "subtitle": "How Blockchain, Cryptocurrency, and Token-Economy Are Disrupting the Financial World",
+        "authors": ["Aries Wanlin Wang"],
+        "publisher": "Simon and Schuster",
+        "publishedDate": "2018-11-20",
+        "description": "In late 2008, under the long shadow cast by the most severe economic crisis in generations, a revolutionary new form of currency was quietly being shaped. At the time no one could have predicted that an obscure form of electronic money would in less than a decade prove to be the most important financial innovation of the 21st century—a tool that would spark an entire new economic institution: crypto economy. That once-obscure money was known as Bitcoin, and today it is the highest valued digital coin. And though consumers continue to scramble to cash in on the trending currency, the technology behind Bitcoin known as Blockchain, which allows the currency to bought and sold without regulation by a government, remains a mystery to the public. In Crypto Economy, Aries Wanlin Wang provides the definitive blueprint for understanding how Bitcoin, Blockchain, and other digital technologies are disrupting traditional financial institutions and forever changing the world of commerce.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781510744837"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1510744835"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 148,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.10.8.0.preview.2",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=W_aBDwAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=W_aBDwAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=W_aBDwAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=20&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=W_aBDwAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=W_aBDwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 977.04,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 488.52,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=W_aBDwAAQBAJ&rdid=book-W_aBDwAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 977040000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 488520000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED_FOR_ACCESSIBILITY",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Crypto_Economy-sample-epub.acsm?id=W_aBDwAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=W_aBDwAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "In Crypto Economy, Aries Wanlin Wang provides the definitive blueprint for understanding how Bitcoin, Blockchain, and other digital technologies are disrupting traditional financial institutions and forever changing the world of commerce."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "Iag-zQEACAAJ",
+      "etag": "A7b1SVhOGg0",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/Iag-zQEACAAJ",
+      "volumeInfo": {
+        "title": "Cowries to Crypto",
+        "subtitle": "The History of Money, Currency and Wealth",
+        "authors": ["Jame DiBiasio"],
+        "publishedDate": "2020-02",
+        "description": "COWRIES TO CRYPTO is a playful romp through world history, providing an entertaining account of the creation of money, from the earliest forms of barter to the introduction of coins, paper notes and digital currencies. Beautifully narrated through a series of witty illustrations, this extraordinary book tells the tale of how money came to be.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "1734228601"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9781734228601"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 164,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=Iag-zQEACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=Iag-zQEACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=Iag-zQEACAAJ&dq=Crypto&hl=&as_pt=BOOKS&cd=21&source=gbs_api",
+        "infoLink": "http://books.google.co.in/books?id=Iag-zQEACAAJ&dq=Crypto&hl=&as_pt=BOOKS&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Cowries_to_Crypto.html?hl=&id=Iag-zQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=Iag-zQEACAAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Beautifully narrated through a series of witty illustrations, this extraordinary book tells the tale of how money came to be."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "LchFDAAAQBAJ",
+      "etag": "SluPH8oMb7A",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/LchFDAAAQBAJ",
+      "volumeInfo": {
+        "title": "Bitcoin and Cryptocurrency Technologies",
+        "subtitle": "A Comprehensive Introduction",
+        "authors": [
+          "Arvind Narayanan",
+          "Joseph Bonneau",
+          "Edward Felten",
+          "Andrew Miller",
+          "Steven Goldfeder"
+        ],
+        "publisher": "Princeton University Press",
+        "publishedDate": "2016-07-19",
+        "description": "An authoritative introduction to the exciting new technologies of digital money Bitcoin and Cryptocurrency Technologies provides a comprehensive introduction to the revolutionary yet often misunderstood new technologies of digital currency. Whether you are a student, software developer, tech entrepreneur, or researcher in computer science, this authoritative and self-contained book tells you everything you need to know about the new global money for the Internet age. How do Bitcoin and its block chain actually work? How secure are your bitcoins? How anonymous are their users? Can cryptocurrencies be regulated? These are some of the many questions this book answers. It begins by tracing the history and development of Bitcoin and cryptocurrencies, and then gives the conceptual and practical foundations you need to engineer secure software that interacts with the Bitcoin network as well as to integrate ideas from Bitcoin into your own projects. Topics include decentralization, mining, the politics of Bitcoin, altcoins and the cryptocurrency ecosystem, the future of Bitcoin, and more. An essential introduction to the new technologies of digital currency Covers the history and mechanics of Bitcoin and the block chain, security, decentralization, anonymity, politics and regulation, altcoins, and much more Features an accompanying website that includes instructional videos for each chapter, homework problems, programming assignments, and lecture slides Also suitable for use with the authors' Coursera online course Electronic solutions manual (available only to professors)",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781400884155"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "1400884152"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 336,
+        "printType": "BOOK",
+        "categories": ["Computers"],
+        "averageRating": 3,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.6.7.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=LchFDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=LchFDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=LchFDAAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=22&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=LchFDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=LchFDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 3835,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 3835,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=LchFDAAAQBAJ&rdid=book-LchFDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3835000000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 3835000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Bitcoin_and_Cryptocurrency_Technologies-sample-epub.acsm?id=LchFDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/Bitcoin_and_Cryptocurrency_Technologies-sample-pdf.acsm?id=LchFDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=LchFDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "How do Bitcoin and its block chain actually work? How secure are your bitcoins? How anonymous are their users? Can cryptocurrencies be regulated? These are some of the many questions this book answers."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "5pUREAAAQBAJ",
+      "etag": "yW90CV9dbdU",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/5pUREAAAQBAJ",
+      "volumeInfo": {
+        "title": "The Basics of Bitcoins and Blockchains",
+        "subtitle": "An Introduction to Cryptocurrencies and the Technology that Powers Them",
+        "authors": ["Antony Lewis"],
+        "publisher": "Mango Media Inc.",
+        "publishedDate": "2018-08-31",
+        "description": "Understand Bitcoin, Blockchains, and Cryptocurrency “Antony helps us all clearly understand the mechanics of bitcoin and blockchain.” ?Rob Findlay, Founder, Next Money #1 Best Seller in Investing Derivatives Learn the history and basics of cryptocurrency and blockchains. There’s a lot of information on cryptocurrency and blockchains out there. But, for the uninitiated, most of this information can be indecipherable. The Basics of Bitcoins and Blockchains provides a guide to this new currency and the revolutionary technology that powers it. Bitcoin, Ethereum, and other cryptocurrencies. Gain an understanding of a broad spectrum of Bitcoin topics including the history of Bitcoin, the Bitcoin blockchain, and Bitcoin buying, selling, and mining. And, learn how payments are made, and how one puts a value on cryptocurrencies and digital tokens. Blockchain technology. What exactly is a blockchain, how does it work, and why is it important? The Basics of Bitcoins and Blockchains answers these questions and more. Learn about notable blockchain platforms, smart contracts, and other important facets of blockchains and their function in the changing cyber-economy. Things to know before buying cryptocurrencies. The Basics of Bitcoins and Blockchains offers trustworthy and balanced insights into Bitcoin investing or investing in other cryptocurrency. Discover the risks and mitigations, learn how to identify scams, and understand cryptocurrency exchanges, digital wallets, and regulations. Learn about: Blockchain technology and how it works The workings of the cryptocurrency market The evolution and potential impacts of Bitcoin and blockchains on global businesses You may have read books such as Blockchain Bubble or Revolution, Cryptoassets, Blockchain Technology Explained, Blockchain Revolution, The Bitcoin Standard, Mastering Bitcoin, or Bitcoin For Dummies, but to really understand the technology it’s time to read The Basics of Bitcoins and Blockchains.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9781633538016"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "163353801X"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 372,
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "preview-1.0.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=5pUREAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=5pUREAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=5pUREAAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=23&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=5pUREAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=5pUREAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 503.86,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 251.93,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=5pUREAAAQBAJ&rdid=book-5pUREAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 503860000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 251930000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/The_Basics_of_Bitcoins_and_Blockchains-sample-epub.acsm?id=5pUREAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/The_Basics_of_Bitcoins_and_Blockchains-sample-pdf.acsm?id=5pUREAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=5pUREAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Discover the risks and mitigations, learn how to identify scams, and understand cryptocurrency exchanges, digital wallets, and regulations with this book."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "d_IJDAAAQBAJ",
+      "etag": "RhSy2GUWXSY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/d_IJDAAAQBAJ",
+      "volumeInfo": {
+        "title": "How to Make Money Trading with Candlestick Charts",
+        "authors": ["Balkrishna M. Sadekar"],
+        "publisher": "Vision Books",
+        "publishedDate": "2015-07-23",
+        "description": "Japanese rice traders have successfully used candle signals to amass huge fortunes for nearly four centuries. Constantly refined and tested over time, candlestick signals are now being used the world over for trading all financial markets, including stocks, derivatives and currencies, etc. This book explains step-by-step how you can make money by trading the powerful and proven candlestick techniques. Here is how: ● Explanation of major candle signals; how to recognize them and use them effectively ● The underlying market psychology revealed by each candle formation ● How to combine candlestick signals with Western technical analysis to take advantage of high probability trades which generate explosive profits ● Stop loss settings for various candlestick signals for cutting losses. Master this and you will be way ahead of fellow traders ● How the use of candlesticks with technical analysis provides a simple mechanical trading system which eliminates emotional interference, panic and greed ● How to use candlestick charts for making money from longer term trading and investing ● PLUS: Proven, market-tested trading ideas tips and common mistakes to avoid based on the author's rich experience of trading stocks and options. This book will enable both new traders and experienced traders derive systematic and consistent profits from the market by adding candlestick charting to their trading arsenal. REVIEWS FOR THE BOOK \"Educative addition to the technical trader's shelf.\" — The Hindu Business Line \"Clearly explains and reinforces the message of each candlestick pattern, pointing out other details that can help determine success or failure at each occurrence. The real life examples are manifold, well chosen and amplify the lessons being taught. Highly recommended reading for traders in all markets to discover ways of profiting from candlestick trading.\" — Alan Northcott \"Sadekar's book not only manages to live upto the expectations but probably excels them. Sadekar attempts to keep things simple, and targets the beginner to intermediate level technician as his target audience. Each type of reversal, consolidation and continuation pattern is tackled in individual chapters and illustrated liberally with charts of Indian stocks. The author leaves ample strategies for the not so active trader, also combining Dow theory tools like trend lines, oscillators and moving averages with the oriental techniques. This gives the reader an immediate advantage of getting the best of both the worlds. While all chapters are interesting read, chapters 11 & 12 are the highlights of the book as they lay out a simple but actionable game plan for a trader and investor. As if the overall package was not sweet enough, Sadekar has compiled a tear-away candlestick ready-reckoner at the end of the book to identify emerging patterns in real time. At its price, the book is a value buy. All in all, a must read book for every freshman candle sticks trader.\" — Vijay L. Bhambwani, Technical Analyst, CEO - BSPLIndia.com",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9788170949626"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "8170949629"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": ["Business & Economics"],
+        "averageRating": 5,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.5.5.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=d_IJDAAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=d_IJDAAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "en",
+        "previewLink": "http://books.google.co.in/books?id=d_IJDAAAQBAJ&printsec=frontcover&dq=Crypto&hl=&as_pt=BOOKS&cd=24&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=d_IJDAAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://play.google.com/store/books/details?id=d_IJDAAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "IN",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 584.1,
+          "currencyCode": "INR"
+        },
+        "retailPrice": {
+          "amount": 199,
+          "currencyCode": "INR"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=d_IJDAAAQBAJ&rdid=book-d_IJDAAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 584100000,
+              "currencyCode": "INR"
+            },
+            "retailPrice": {
+              "amountInMicros": 199000000,
+              "currencyCode": "INR"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "IN",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/How_to_Make_Money_Trading_with_Candlesti-sample-epub.acsm?id=d_IJDAAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.co.in/books/download/How_to_Make_Money_Trading_with_Candlesti-sample-pdf.acsm?id=d_IJDAAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=d_IJDAAAQBAJ&hl=&as_pt=BOOKS&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "As if the overall package was not sweet enough, Sadekar has compiled a tear-away candlestick ready-reckoner at the end of the book to identify emerging patterns in real time. At its price, the book is a value buy."
+      }
+    }
+  ]
+}
