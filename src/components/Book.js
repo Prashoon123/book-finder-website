@@ -37,7 +37,7 @@ const Book = forwardRef(
 
           <MoreDetails>
             {!description ? (
-              <DetailsText>Description: No description available</DetailsText>
+              <DetailsText>Description: Not specified</DetailsText>
             ) : (
               <DetailsText>
                 Description:{" "}
@@ -47,7 +47,7 @@ const Book = forwardRef(
               </DetailsText>
             )}
             {!formattedAuthors ? (
-              <DetailsText>Author: No author available</DetailsText>
+              <DetailsText>Author: Not specified</DetailsText>
             ) : (
               <DetailsText>
                 Author:{" "}
@@ -57,12 +57,17 @@ const Book = forwardRef(
               </DetailsText>
             )}
             <DetailsText>
-              Publisher: {publisher ? publisher : "No publisher available"}
+              Publisher: {publisher ? publisher : "Not specified"}
             </DetailsText>
             <DetailsText>
-              Published: {published ? published : "No published date available"}
+              Published: {published ? published : "Not specified"}
             </DetailsText>
-            {rating && <Rating readOnly value={rating} precision={0.5} />}
+            {rating && (
+              <>
+                <Rating readOnly value={rating} precision={0.5} />
+                <div style={{ height: 5 }} />
+              </>
+            )}
             {buyLink && (
               <a target="_blank" href={buyLink} rel="noreferrer">
                 <Button>Buy Book</Button>
@@ -84,6 +89,13 @@ const Container = styled.div`
   border-radius: 3;
   background: #fff;
   margin: 10px;
+  border-radius: 5px;
+
+  @media (max-width: 420px) {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+  }
 `;
 
 const Details = styled.div`
@@ -99,6 +111,10 @@ const Image = styled.img`
   height: 200px;
   width: 100px;
   object-fit: contain;
+
+  @media (max-width: 420px) {
+    margin-bottom: -30px;
+  }
 `;
 
 const MoreDetails = styled.div`
@@ -107,10 +123,16 @@ const MoreDetails = styled.div`
   align-self: flex-start;
   margin-top: 20px;
   margin-left: 20px;
+
+  @media (max-width: 420px) {
+    > span {
+      align-self: center !important;
+    }
+  }
 `;
 
 const DetailsText = styled.p`
-  margin: 3px;
+  margin: 5px;
 `;
 
 const Button = styled.button`

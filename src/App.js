@@ -121,7 +121,7 @@ const Form = styled.form`
 const InputContainer = styled.div`
   display: flex;
   align-items: center;
-  border: 1px solid black;
+  border: 2px solid black;
   padding: 5px;
   width: 100%;
 
